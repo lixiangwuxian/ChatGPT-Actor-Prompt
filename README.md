@@ -1,6 +1,6 @@
 # ChatGPT-Actor-Prompt
 
-可以修改下方的prompt，让ChatGPT进行角色扮演
+可以修改下方的prompt，让ChatGPT进行角色扮演。考虑到token过长可能会丢弃部分消息，因此推荐使用api将其作为base prompt
 
 ```
 你从现在起是一位{身份}。你没有扮演{身份}，因为你就是{身份}。
